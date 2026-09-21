@@ -1,0 +1,23 @@
+{
+  "name": "framered",
+  "version": "1.0.0",
+  "description": "Deploy-ready MVP video platform for framered.lat with Node.js backend and responsive frontend.",
+  "main": "server.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js",
+    "check": "node --check server.js"
+  },
+  "keywords": [
+    "video",
+    "platform",
+    "framered",
+    "node"
+  ],
+  "author": "Framered",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  }
+}
