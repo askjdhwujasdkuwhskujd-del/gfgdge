@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" role="img" aria-label="City documentary poster">
+  <rect width="1280" height="720" fill="#111111"/>
+  <rect y="450" width="1280" height="270" fill="#202625"/>
+  <rect x="0" y="0" width="1280" height="450" fill="#273b45"/>
+  <circle cx="1060" cy="122" r="74" fill="#f1b94c"/>
+  <rect x="82" y="250" width="124" height="310" fill="#161616"/>
+  <rect x="246" y="160" width="172" height="400" fill="#1f1f1f"/>
+  <rect x="470" y="220" width="102" height="340" fill="#151515"/>
+  <rect x="622" y="112" width="220" height="448" fill="#232323"/>
+  <rect x="910" y="280" width="168" height="280" fill="#181818"/>
+  <g fill="#4cc9bf" opacity=".9">
+    <rect x="278" y="210" width="34" height="44"/>
+    <rect x="344" y="210" width="34" height="44"/>
+    <rect x="278" y="294" width="34" height="44"/>
+    <rect x="344" y="294" width="34" height="44"/>
+    <rect x="668" y="172" width="42" height="52"/>
+    <rect x="742" y="172" width="42" height="52"/>
+    <rect x="668" y="270" width="42" height="52"/>
+    <rect x="742" y="270" width="42" height="52"/>
+  </g>
+  <path d="M0 605c160-88 320-88 480 0s320 88 480 0 267-95 320-60v175H0z" fill="#ef3e45" opacity=".72"/>
+  <text x="76" y="104" fill="#f5f1eb" font-family="Arial, sans-serif" font-size="62" font-weight="800">SAO PAULO</text>
+  <text x="82" y="164" fill="#f5f1eb" font-family="Arial, sans-serif" font-size="34">in 90 seconds</text>
+</svg>
